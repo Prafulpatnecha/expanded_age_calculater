@@ -6,7 +6,7 @@ import 'home/thewall/component/classeswall.dart';
 void main()
 {
   // runApp(const MyApp(),);
-  // runApp(const MyAppage(),);
-  runApp(const MyWall());
+  runApp(const MyAppage(),);
+  // runApp(const MyWall());
 }
 
